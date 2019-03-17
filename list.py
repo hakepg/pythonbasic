@@ -9,7 +9,7 @@ while (i<len(n)):
 
 
 print('display element using for loop')
-for n1 in n:
+for n1 in n:"
     print(n1)
 print('\n')
 
